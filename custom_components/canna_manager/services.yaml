@@ -1,0 +1,20 @@
+set_task:
+  description: "Set a new task in the task calendar"
+  fields:
+    task:
+      description: "Task description"
+      example: "Water plants"
+
+set_irrigation_zone:
+  description: "Turn on or off a specific irrigation zone"
+  fields:
+    zone_id:
+      description: "Zone ID"
+      example: 1
+
+control_light:
+  description: "Turn on or off the grow lights"
+  fields:
+    light_id:
+      description: "Light ID"
+      example: "main_light"

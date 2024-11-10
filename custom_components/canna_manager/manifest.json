@@ -1,0 +1,9 @@
+{
+  "domain": "cannabis_grow_manager",
+  "name": "Cannabis Grow Manager",
+  "version": "1.0.0",
+  "documentation": "https://example.com",
+  "requirements": [],
+  "dependencies": ["esphome"],
+  "codeowners": ["@your_github_username"]
+}
